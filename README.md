@@ -4,19 +4,19 @@
 
 To compare the predictive performances of the model constructed using solely clinical variables and the model where the data is augmented with four features, extracted from the EHG signal, run `python baseline_clinical.py` and `python baseline_ehg.py`:
 
-[Oversamping correctly vs incorrectly](figures/impact_ehg.png)
+![The impact of features extracted from EHG signals](figures/impact_ehg.png)
 
 ## Oversampling on an artificial dataset
 
 To generate the different scatter plots, used for Figure 1 (see below), run `python oversampling.py`
 
-[Oversamping correctly vs incorrectly](figures/EHG_BLOCK.svg)
+![Oversamping correctly vs incorrectly (artificial dataset)](figures/EHG_BLOCK.svg)
 
 ## Oversampling the TPEHGDB dataset incorrectly vs correctly
 
 To compare oversampling in a correct fashion vs oversampling in an incorrect fashion, run `python baseline_smote_correct.py` and `python baseline_smote_incorrect.py`:
 
-[Oversamping correctly vs incorrectly](figures/smote.png)
+![Oversamping correctly vs incorrectly (TPEHGDB dataset)](figures/smote.png)
 
 ## Questions, citing and contact
 
