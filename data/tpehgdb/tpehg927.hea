@@ -1,0 +1,28 @@
+tpehg927 12 20.000000 35460
+tpehg927.dat 16 13107/mV 16 0 -1001 -5663 0 1
+tpehg927.dat 16 13107/mV 16 0 -19 -16556 0 1_DOCFILT-4-0.08-4
+tpehg927.dat 16 13107/mV 16 0 -6 -2361 0 1_DOCFILT-4-0.3-3
+tpehg927.dat 16 13107/mV 16 0 -15 -3217 0 1_DOCFILT-4-0.3-4
+tpehg927.dat 16 13107/mV 16 0 -325 -9033 0 2
+tpehg927.dat 16 13107/mV 16 0 -3 -3874 0 2_DOCFILT-4-0.08-4
+tpehg927.dat 16 13107/mV 16 0 -1 3 0 2_DOCFILT-4-0.3-3
+tpehg927.dat 16 13107/mV 16 0 -4 -245 0 2_DOCFILT-4-0.3-4
+tpehg927.dat 16 13107/mV 16 0 812 7216 0 3
+tpehg927.dat 16 13107/mV 16 0 15 10047 0 3_DOCFILT-4-0.08-4
+tpehg927.dat 16 13107/mV 16 0 5 1283 0 3_DOCFILT-4-0.3-3
+tpehg927.dat 16 13107/mV 16 0 14 1691 0 3_DOCFILT-4-0.3-4
+#Comments:
+#    RecID 927
+#    Gestation 40.9
+#    Rectime 30.9
+#    Age 28
+#    Parity None
+#    Abortions None
+#    Weight 59
+#    Hypertension None
+#    Diabetes None
+#    Placental_position end
+#    Bleeding_first_trimester no
+#    Bleeding_second_trimester no
+#    Funneling negative
+#    Smoker None

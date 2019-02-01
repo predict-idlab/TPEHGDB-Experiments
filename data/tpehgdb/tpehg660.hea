@@ -1,0 +1,28 @@
+tpehg660 12 20.000000 35300
+tpehg660.dat 16 13107/mV 16 0 4397 13992 0 1
+tpehg660.dat 16 13107/mV 16 0 112 -17663 0 1_DOCFILT-4-0.08-4
+tpehg660.dat 16 13107/mV 16 0 34 8488 0 1_DOCFILT-4-0.3-3
+tpehg660.dat 16 13107/mV 16 0 92 11295 0 1_DOCFILT-4-0.3-4
+tpehg660.dat 16 13107/mV 16 0 3492 -1833 0 2
+tpehg660.dat 16 13107/mV 16 0 87 -22887 0 2_DOCFILT-4-0.08-4
+tpehg660.dat 16 13107/mV 16 0 27 9387 0 2_DOCFILT-4-0.3-3
+tpehg660.dat 16 13107/mV 16 0 72 11723 0 2_DOCFILT-4-0.3-4
+tpehg660.dat 16 13107/mV 16 0 2625 -1355 0 3
+tpehg660.dat 16 13107/mV 16 0 64 -32221 0 3_DOCFILT-4-0.08-4
+tpehg660.dat 16 13107/mV 16 0 18 6955 0 3_DOCFILT-4-0.3-3
+tpehg660.dat 16 13107/mV 16 0 51 5834 0 3_DOCFILT-4-0.3-4
+#Comments:
+#    RecID 660
+#    Gestation 39.9
+#    Rectime 32.1
+#    Age None
+#    Parity None
+#    Abortions None
+#    Weight None
+#    Hypertension None
+#    Diabetes None
+#    Placental_position end
+#    Bleeding_first_trimester no
+#    Bleeding_second_trimester no
+#    Funneling negative
+#    Smoker None
