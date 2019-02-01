@@ -10,7 +10,7 @@ To compare the predictive performances of the model constructed using solely cli
 
 To generate the different scatter plots, used for Figure 1 (see below), run `python oversampling.py`
 
-![Oversamping correctly vs incorrectly (artificial dataset)](figures/EHG_BLOCK.svg)
+![Oversamping correctly vs incorrectly (artificial dataset)](figures/EHG_BLOCK.eps)
 
 ## Oversampling the TPEHGDB dataset incorrectly vs correctly
 
